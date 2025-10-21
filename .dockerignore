@@ -1,0 +1,10 @@
+.git
+.gitignore
+.gradle
+build
+target
+out
+node_modules
+*.iml
+*.log
+.DS_Store
